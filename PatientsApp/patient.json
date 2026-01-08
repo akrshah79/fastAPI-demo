@@ -1,92 +1,101 @@
 [
-  {
-    "patient_id": "P001",
-    "name": "Alice Johnson",
-    "age": 28,
-    "weight_kg": 62,
-    "height_cm": 165,
-    "bmi": 22.8,
-    "notes": "Normal BMI"
-  },
-  {
-    "patient_id": "P002",
-    "name": "Mark Stevens",
-    "age": 45,
-    "weight_kg": 85,
-    "height_cm": 178,
-    "bmi": 26.8,
-    "notes": "Overweight"
-  },
-  {
-    "patient_id": "P003",
-    "name": "Sophia Martinez",
-    "age": 34,
-    "weight_kg": 70,
-    "height_cm": 170,
-    "bmi": 24.2,
-    "notes": "Upper-normal BMI"
-  },
-  {
-    "patient_id": "P004",
-    "name": "Daniel Kim",
-    "age": 52,
-    "weight_kg": 95,
-    "height_cm": 180,
-    "bmi": 29.3,
-    "notes": "Overweight / monitoring"
-  },
-  {
-    "patient_id": "P005",
-    "name": "Grace Lee",
-    "age": 19,
-    "weight_kg": 54,
-    "height_cm": 160,
-    "bmi": 21.1,
-    "notes": "Healthy"
-  },
-  {
-    "patient_id": "P006",
-    "name": "John Carter",
-    "age": 61,
-    "weight_kg": 102,
-    "height_cm": 172,
-    "bmi": 34.4,
-    "notes": "Obese (requires follow-up)"
-  },
-  {
-    "patient_id": "P007",
-    "name": "Emily Brown",
-    "age": 39,
-    "weight_kg": 68,
-    "height_cm": 168,
-    "bmi": 24.1,
-    "notes": "Normal"
-  },
-  {
-    "patient_id": "P008",
-    "name": "Michael Davis",
-    "age": 50,
-    "weight_kg": 77,
-    "height_cm": 175,
-    "bmi": 25.1,
-    "notes": "Slightly overweight"
-  },
-  {
-    "patient_id": "P009",
-    "name": "Olivia Wilson",
-    "age": 27,
-    "weight_kg": 59,
-    "height_cm": 162,
-    "bmi": 22.5,
-    "notes": "Normal"
-  },
-  {
-    "patient_id": "P010",
-    "name": "Kevin Patel",
-    "age": 33,
-    "weight_kg": 73,
-    "height_cm": 169,
-    "bmi": 25.6,
-    "notes": "Overweight (borderline)"
-  }
+    {
+        "patient_id": "P001",
+        "name": "Alice Johnson",
+        "age": 82,
+        "weight_kg": 62.0,
+        "height_cm": 65.0,
+        "bmi": 146.7455621301775,
+        "notes": "Severe Obesity"
+    },
+    {
+        "patient_id": "P002",
+        "name": "Mark Stevens",
+        "age": 45,
+        "weight_kg": 85,
+        "height_cm": 178,
+        "bmi": 26.8,
+        "notes": "Overweight"
+    },
+    {
+        "patient_id": "P003",
+        "name": "Sophia Martinez",
+        "age": 34,
+        "weight_kg": 70,
+        "height_cm": 170,
+        "bmi": 24.2,
+        "notes": "Upper-normal BMI"
+    },
+    {
+        "patient_id": "P004",
+        "name": "Daniel Kim",
+        "age": 52,
+        "weight_kg": 95,
+        "height_cm": 180,
+        "bmi": 29.3,
+        "notes": "Overweight / monitoring"
+    },
+    {
+        "patient_id": "P005",
+        "name": "Grace Lee",
+        "age": 19,
+        "weight_kg": 54,
+        "height_cm": 160,
+        "bmi": 21.1,
+        "notes": "Healthy"
+    },
+    {
+        "patient_id": "P006",
+        "name": "John Carter",
+        "age": 61,
+        "weight_kg": 102,
+        "height_cm": 172,
+        "bmi": 34.4,
+        "notes": "Obese (requires follow-up)"
+    },
+    {
+        "patient_id": "P007",
+        "name": "Emily Brown",
+        "age": 39,
+        "weight_kg": 68,
+        "height_cm": 168,
+        "bmi": 24.1,
+        "notes": "Normal"
+    },
+    {
+        "patient_id": "P008",
+        "name": "Michael Davis",
+        "age": 50,
+        "weight_kg": 77,
+        "height_cm": 175,
+        "bmi": 25.1,
+        "notes": "Slightly overweight"
+    },
+    {
+        "patient_id": "P009",
+        "name": "Olivia Wilson",
+        "age": 27,
+        "weight_kg": 59,
+        "height_cm": 162,
+        "bmi": 22.5,
+        "notes": "Normal"
+    },
+    {
+        "patient_id": "P010",
+        "name": "Kevin Patel",
+        "age": 33,
+        "weight_kg": 73,
+        "height_cm": 169,
+        "bmi": 25.6,
+        "notes": "Overweight (borderline)"
+    },
+    {
+        "patient_id": "P011",
+        "name": "holly",
+        "age": 30,
+        "weight_kg": 100.0,
+        "height_cm": 50.0,
+        "bmi": 400.0,
+        "notes": "Severe Obesity"
+    }
 ]

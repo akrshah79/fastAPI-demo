@@ -8,6 +8,7 @@ class Item(BaseModel):
     description:Optional[str]=None
     price:float
     
+    #field_validator application
     @field_validator('email')
     @classmethod
     def validate_email(cls,v):
