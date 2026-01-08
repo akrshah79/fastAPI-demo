@@ -1,23 +1,5 @@
 [
     {
-        "patient_id": "P001",
-        "name": "Alice Johnson",
-        "age": 82,
-        "weight_kg": 62.0,
-        "height_cm": 65.0,
-        "bmi": 146.7455621301775,
-        "notes": "Severe Obesity"
-    },
-    {
-        "patient_id": "P002",
-        "name": "Mark Stevens",
-        "age": 45,
-        "weight_kg": 85,
-        "height_cm": 178,
-        "bmi": 26.8,
-        "notes": "Overweight"
-    },
-    {
         "patient_id": "P003",
         "name": "Sophia Martinez",
         "age": 34,
@@ -34,15 +16,6 @@
         "height_cm": 180,
         "bmi": 29.3,
         "notes": "Overweight / monitoring"
-    },
-    {
-        "patient_id": "P005",
-        "name": "Grace Lee",
-        "age": 19,
-        "weight_kg": 54,
-        "height_cm": 160,
-        "bmi": 21.1,
-        "notes": "Healthy"
     },
     {
         "patient_id": "P006",
